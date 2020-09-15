@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./styles.css";
-import Table from "../table/table";
-import tableData from "../mock";
+import Table from "./table/table";
+import tableData from "./mock";
 
 export default function App() {
   const styleProps = {

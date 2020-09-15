@@ -35,6 +35,7 @@ export const SimpleTable = styled.table`
   & tbody tr td img {
     height: 30px;
     width: 30px;
+    min-width: 30px;
     border-radius: 100%;
     margin-right: 1rem;
   }
